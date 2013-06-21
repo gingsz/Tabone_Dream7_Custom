@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Version>
+	<Code>7.0</Code>
+	<Desc>Android 4.2.2 V1.0</Desc>
+	<Url>https://tabone-dream7-custom.googlecode.com/git/Gingsz_4.2.2_V1.0.zip</Url>
+	<ExternalLink>1</ExternalLink><!-- Open the broser for download the file from <url> tag. Usefull for host like rapidshare, fileshare,ecc, delete tag if don't need-->
+  <RebootRecovery>1</RebootRecovery>
+  
+</Version>
